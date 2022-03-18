@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/PerfectBlue-19.png");
+  background-image: url("images/PerfectBlue-24.png");
   background-position: 50% 28.19%;
 }
 
@@ -55,7 +55,7 @@
 
 .u-section-2 .u-text-1 {
   line-height: 2;
-  margin: 0;
+  margin: 81px 0 0;
 }
 
 @media (max-width: 991px) {
@@ -287,15 +287,15 @@
 }
 
 .u-section-4 .u-layout-cell-4 {
-  min-height: 285px;
+  min-height: 320px;
 }
 
 .u-section-4 .u-container-layout-4 {
-  padding: 8px 24px;
+  padding: 7px 24px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 54px 0 -22px;
+  margin: 0;
 }
 
 @media (max-width: 1199px) {
@@ -342,8 +342,6 @@
 
   .u-section-4 .u-text-1 {
     width: auto;
-    margin-top: 0;
-    margin-bottom: 0;
   }
 }
 
